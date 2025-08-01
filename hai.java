@@ -1,5 +1,2 @@
-hai this is java code
-hai
-  hai
-  hau
-  hai
+this is new code aftr repo to local
+
